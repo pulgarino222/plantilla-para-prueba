@@ -48,4 +48,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+GOOGLE_OAUTH_CLIENT_ID=xxx
+GOOGLE_OAUTH_CLIENT_SECRET=xxx
 
